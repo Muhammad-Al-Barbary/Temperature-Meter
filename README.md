@@ -6,6 +6,7 @@ Impemented the following drivers:
 2. LCD
 3. LM35 Temperature Sensor
 4. Interrupts
-simulated using Proteus:
+
+Simulated using Proteus:
 
 ![Screenshot_1](https://user-images.githubusercontent.com/101192969/188532996-5c96e53f-899e-445d-a822-f9c569256c06.jpg)
