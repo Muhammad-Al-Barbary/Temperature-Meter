@@ -5,7 +5,7 @@ Impemented the following drivers:
 1. GPIO
 2. LCD
 3. LM35 Temperature Sensor
-4. Interrupts
+4. ADC
 
 Simulated using Proteus:
 
