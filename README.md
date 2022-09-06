@@ -1,6 +1,7 @@
 Temperature Meter
 Arm based Embedded System Project using STM32 microcontroller and LM35 Temperature sensor for temperature measurement
-impemented the following drivers:
+
+Impemented the following drivers:
 1. GPIO
 2. LCD
 3. LM35 Temperature Sensor
